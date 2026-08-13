@@ -1,0 +1,28 @@
+{
+  "run_id": "d60607c22898",
+  "idea": "skinwalker story",
+  "target_duration_minutes": 2,
+  "audio_provider": "gemini",
+  "plan_path": "plan.json",
+  "metadata_path": "metadata.txt",
+  "thumbnail_path": null,
+  "final_video_path": null,
+  "scenes": [
+    {
+      "paragraph_index": 1,
+      "audio_path": null,
+      "timestamps_path": null,
+      "image_path": null,
+      "timestamp_source": null,
+      "error": null
+    },
+    {
+      "paragraph_index": 2,
+      "audio_path": null,
+      "timestamps_path": null,
+      "image_path": null,
+      "timestamp_source": null,
+      "error": null
+    }
+  ]
+}

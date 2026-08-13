@@ -1,0 +1,24 @@
+{
+  "scenes": [
+    {
+      "paragraph_index": 1,
+      "narration": "We think we know the ocean. We map it, we sail across it, and we treat it like a blue backdrop to our lives. But look closely at the horizon. Beyond that thin line of light, the water turns into a crushing, black weight that has kept its secrets for millions of years.",
+      "image_prompt": "Cinematic wide shot of a vast, dark, moody ocean horizon at twilight, hyper-realistic, deep blue and black tones, dramatic lighting."
+    },
+    {
+      "paragraph_index": 2,
+      "narration": "There are places down there where the pressure is so intense it could flatten a submarine like a soda can. Yet, somehow, life doesn't just survive. It glows. Bioluminescent creatures drift through the abyss like living stars, entirely indifferent to the world above them.",
+      "image_prompt": "Close-up of a mysterious, glowing deep-sea jellyfish with long, delicate tentacles in pitch-black water, ethereal light, high contrast."
+    },
+    {
+      "paragraph_index": 3,
+      "narration": "Sometimes I wonder what else is hiding in the silence. We’ve explored more of the moon than we have of our own seafloor. Every time we send a camera down, we find something that defies logic, something that reminds us that we aren't the ones in charge here. The ocean isn't just water. It’s an alien planet, right beneath our feet.",
+      "image_prompt": "A remote operated vehicle with bright headlights illuminating a strange, jagged, uncharted underwater rock formation, cinematic, mysterious atmosphere."
+    }
+  ],
+  "thumbnail_prompt": "A split screen showing a calm ocean surface on top and a terrifyingly large, glowing deep-sea creature in the abyss below, dark moody lighting, high detail, 8k resolution.",
+  "title_and_description": {
+    "title": "What's Really Hiding in the Deep Ocean?",
+    "description": "The ocean covers most of our planet, yet we have explored less than 10 percent of it. Join us as we dive into the mysteries of the abyss and the strange life forms that thrive where no human can follow."
+  }
+}

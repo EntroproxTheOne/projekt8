@@ -1,0 +1,107 @@
+[
+  {
+    "word": "like",
+    "start": 0.9,
+    "end": 12.34
+  },
+  {
+    "word": "a",
+    "start": 12.34,
+    "end": 12.52
+  },
+  {
+    "word": "human,",
+    "start": 12.52,
+    "end": 13.22
+  },
+  {
+    "word": "and",
+    "start": 13.22,
+    "end": 13.42
+  },
+  {
+    "word": "it",
+    "start": 13.42,
+    "end": 13.64
+  },
+  {
+    "word": "definitely",
+    "start": 13.64,
+    "end": 14.14
+  },
+  {
+    "word": "didn't",
+    "start": 14.14,
+    "end": 14.54
+  },
+  {
+    "word": "move",
+    "start": 14.54,
+    "end": 14.82
+  },
+  {
+    "word": "like",
+    "start": 14.82,
+    "end": 14.98
+  },
+  {
+    "word": "an",
+    "start": 14.98,
+    "end": 15.14
+  },
+  {
+    "word": "animal.",
+    "start": 15.14,
+    "end": 15.62
+  },
+  {
+    "word": "It",
+    "start": 15.62,
+    "end": 16.36
+  },
+  {
+    "word": "was",
+    "start": 16.36,
+    "end": 16.52
+  },
+  {
+    "word": "jerky,",
+    "start": 16.52,
+    "end": 17.36
+  },
+  {
+    "word": "unnatural,",
+    "start": 17.36,
+    "end": 18.12
+  },
+  {
+    "word": "like",
+    "start": 18.12,
+    "end": 18.46
+  },
+  {
+    "word": "a",
+    "start": 18.46,
+    "end": 18.62
+  },
+  {
+    "word": "film",
+    "start": 18.62,
+    "end": 18.98
+  },
+  {
+    "word": "reel",
+    "start": 18.98,
+    "end": 19.34
+  },
+  {
+    "word": "skipping",
+    "start": 19.34,
+    "end": 19.78
+  },
+  {
+    "word": "frames.",
+    "start": 19.78,
+    "end": 20.86
+  }
+]

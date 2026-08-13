@@ -1,0 +1,127 @@
+[
+  {
+    "word": "This",
+    "start": 0.0,
+    "end": 0.2688
+  },
+  {
+    "word": "is",
+    "start": 0.2688,
+    "end": 0.5376
+  },
+  {
+    "word": "mock",
+    "start": 0.5376,
+    "end": 0.8064
+  },
+  {
+    "word": "paragraph",
+    "start": 0.8064,
+    "end": 1.0752
+  },
+  {
+    "word": "1",
+    "start": 1.0752,
+    "end": 1.344
+  },
+  {
+    "word": "for",
+    "start": 1.344,
+    "end": 1.6128
+  },
+  {
+    "word": "A",
+    "start": 1.6128,
+    "end": 1.8816
+  },
+  {
+    "word": "short",
+    "start": 1.8816,
+    "end": 2.1504
+  },
+  {
+    "word": "history",
+    "start": 2.1504,
+    "end": 2.4192
+  },
+  {
+    "word": "of",
+    "start": 2.4192,
+    "end": 2.688
+  },
+  {
+    "word": "AI",
+    "start": 2.688,
+    "end": 2.9568
+  },
+  {
+    "word": ".",
+    "start": 2.9568,
+    "end": 3.2256
+  },
+  {
+    "word": "It",
+    "start": 3.2256,
+    "end": 3.4944
+  },
+  {
+    "word": "demonstrates",
+    "start": 3.4944,
+    "end": 3.7632
+  },
+  {
+    "word": "resumable",
+    "start": 3.7632,
+    "end": 4.032
+  },
+  {
+    "word": "audio",
+    "start": 4.032,
+    "end": 4.3008
+  },
+  {
+    "word": "chunks",
+    "start": 4.3008,
+    "end": 4.5696
+  },
+  {
+    "word": ",",
+    "start": 4.5696,
+    "end": 4.8384
+  },
+  {
+    "word": "contextual",
+    "start": 4.8384,
+    "end": 5.1072
+  },
+  {
+    "word": "images",
+    "start": 5.1072,
+    "end": 5.376
+  },
+  {
+    "word": ",",
+    "start": 5.376,
+    "end": 5.6448
+  },
+  {
+    "word": "and",
+    "start": 5.6448,
+    "end": 5.9136
+  },
+  {
+    "word": "dynamic",
+    "start": 5.9136,
+    "end": 6.1824
+  },
+  {
+    "word": "subtitles",
+    "start": 6.1824,
+    "end": 6.4512
+  },
+  {
+    "word": ".",
+    "start": 6.4512,
+    "end": 6.72
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "scenes": [
+    {
+      "paragraph_index": 1,
+      "narration": "I grew up hearing stories about the high desert, the kind that settle in your bones when the sun drops and the shadows stretch out like long, spindly fingers. People talk about the skinwalker in hushed tones, like naming it might actually summon it to your porch. It’s not just a ghost story to the folks out here. It’s a weight in the air.",
+      "image_prompt": "Cinematic shot of a vast, desolate New Mexico desert at twilight, long shadows, dry brush, muted earth tones, hyper-realistic, 8k."
+    },
+    {
+      "paragraph_index": 2,
+      "narration": "I remember one night, driving back from my cousin’s place. The road was empty, nothing but a ribbon of black cutting through the scrub brush. My headlights caught something standing just off the shoulder. It wasn't a coyote, and it definitely wasn't a man. It stood on two legs, but the proportions were all wrong. Too tall. Too thin.",
+      "image_prompt": "First-person perspective from inside a car at night, headlights illuminating a mysterious, tall, gaunt figure standing on the edge of a dark, desolate desert road."
+    }
+  ],
+  "thumbnail_prompt": "A chilling, high-contrast YouTube thumbnail showing a silhouette of a distorted, tall creature standing on a lonely desert road at night, headlights cutting through the darkness, text overlay: THE THING IN THE SCRUB.",
+  "title_and_description": {
+    "title": "What I Saw on the Desert Road: A Skinwalker Encounter",
+    "description": "I never believed in the legends of the high desert until I saw it for myself. A true, chilling account of a late-night encounter that still haunts me. Explore the mystery of the skinwalker."
+  }
+}

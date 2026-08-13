@@ -1,0 +1,11 @@
+{
+  "run_id": "2b64cb61e4be",
+  "idea": "test",
+  "target_duration_minutes": 1,
+  "audio_provider": "groq",
+  "plan_path": null,
+  "metadata_path": null,
+  "thumbnail_path": null,
+  "final_video_path": null,
+  "scenes": []
+}

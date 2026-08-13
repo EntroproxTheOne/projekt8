@@ -1,0 +1,492 @@
+[
+  {
+    "word": "There",
+    "start": 0.0,
+    "end": 0.2963
+  },
+  {
+    "word": "\u2019",
+    "start": 0.2963,
+    "end": 0.5927
+  },
+  {
+    "word": "s",
+    "start": 0.5927,
+    "end": 0.889
+  },
+  {
+    "word": "something",
+    "start": 0.889,
+    "end": 1.1853
+  },
+  {
+    "word": "about",
+    "start": 1.1853,
+    "end": 1.4816
+  },
+  {
+    "word": "the",
+    "start": 1.4816,
+    "end": 1.778
+  },
+  {
+    "word": "dark",
+    "start": 1.778,
+    "end": 2.0743
+  },
+  {
+    "word": "that",
+    "start": 2.0743,
+    "end": 2.3706
+  },
+  {
+    "word": "doesn",
+    "start": 2.3706,
+    "end": 2.6669
+  },
+  {
+    "word": "\u2019",
+    "start": 2.6669,
+    "end": 2.9633
+  },
+  {
+    "word": "t",
+    "start": 2.9633,
+    "end": 3.2596
+  },
+  {
+    "word": "just",
+    "start": 3.2596,
+    "end": 3.5559
+  },
+  {
+    "word": "hide",
+    "start": 3.5559,
+    "end": 3.8522
+  },
+  {
+    "word": "things",
+    "start": 3.8522,
+    "end": 4.1486
+  },
+  {
+    "word": ".",
+    "start": 4.1486,
+    "end": 4.4449
+  },
+  {
+    "word": "It",
+    "start": 4.4449,
+    "end": 4.7412
+  },
+  {
+    "word": "changes",
+    "start": 4.7412,
+    "end": 5.0376
+  },
+  {
+    "word": "them",
+    "start": 5.0376,
+    "end": 5.3339
+  },
+  {
+    "word": ".",
+    "start": 5.3339,
+    "end": 5.6302
+  },
+  {
+    "word": "You",
+    "start": 5.6302,
+    "end": 5.9265
+  },
+  {
+    "word": "know",
+    "start": 5.9265,
+    "end": 6.2229
+  },
+  {
+    "word": "that",
+    "start": 6.2229,
+    "end": 6.5192
+  },
+  {
+    "word": "feeling",
+    "start": 6.5192,
+    "end": 6.8155
+  },
+  {
+    "word": "when",
+    "start": 6.8155,
+    "end": 7.1118
+  },
+  {
+    "word": "you",
+    "start": 7.1118,
+    "end": 7.4082
+  },
+  {
+    "word": "\u2019",
+    "start": 7.4082,
+    "end": 7.7045
+  },
+  {
+    "word": "re",
+    "start": 7.7045,
+    "end": 8.0008
+  },
+  {
+    "word": "watching",
+    "start": 8.0008,
+    "end": 8.2971
+  },
+  {
+    "word": "a",
+    "start": 8.2971,
+    "end": 8.5935
+  },
+  {
+    "word": "horror",
+    "start": 8.5935,
+    "end": 8.8898
+  },
+  {
+    "word": "movie",
+    "start": 8.8898,
+    "end": 9.1861
+  },
+  {
+    "word": "alone",
+    "start": 9.1861,
+    "end": 9.4824
+  },
+  {
+    "word": ",",
+    "start": 9.4824,
+    "end": 9.7788
+  },
+  {
+    "word": "the",
+    "start": 9.7788,
+    "end": 10.0751
+  },
+  {
+    "word": "house",
+    "start": 10.0751,
+    "end": 10.3714
+  },
+  {
+    "word": "is",
+    "start": 10.3714,
+    "end": 10.6678
+  },
+  {
+    "word": "quiet",
+    "start": 10.6678,
+    "end": 10.9641
+  },
+  {
+    "word": ",",
+    "start": 10.9641,
+    "end": 11.2604
+  },
+  {
+    "word": "and",
+    "start": 11.2604,
+    "end": 11.5567
+  },
+  {
+    "word": "suddenly",
+    "start": 11.5567,
+    "end": 11.8531
+  },
+  {
+    "word": "the",
+    "start": 11.8531,
+    "end": 12.1494
+  },
+  {
+    "word": "creak",
+    "start": 12.1494,
+    "end": 12.4457
+  },
+  {
+    "word": "of",
+    "start": 12.4457,
+    "end": 12.742
+  },
+  {
+    "word": "a",
+    "start": 12.742,
+    "end": 13.0384
+  },
+  {
+    "word": "floorboard",
+    "start": 13.0384,
+    "end": 13.3347
+  },
+  {
+    "word": "upstairs",
+    "start": 13.3347,
+    "end": 13.631
+  },
+  {
+    "word": "feels",
+    "start": 13.631,
+    "end": 13.9273
+  },
+  {
+    "word": "like",
+    "start": 13.9273,
+    "end": 14.2237
+  },
+  {
+    "word": "a",
+    "start": 14.2237,
+    "end": 14.52
+  },
+  {
+    "word": "personal",
+    "start": 14.52,
+    "end": 14.8163
+  },
+  {
+    "word": "invitation",
+    "start": 14.8163,
+    "end": 15.1127
+  },
+  {
+    "word": "?",
+    "start": 15.1127,
+    "end": 15.409
+  },
+  {
+    "word": "It",
+    "start": 15.409,
+    "end": 15.7053
+  },
+  {
+    "word": "\u2019",
+    "start": 15.7053,
+    "end": 16.0016
+  },
+  {
+    "word": "s",
+    "start": 16.0016,
+    "end": 16.298
+  },
+  {
+    "word": "not",
+    "start": 16.298,
+    "end": 16.5943
+  },
+  {
+    "word": "just",
+    "start": 16.5943,
+    "end": 16.8906
+  },
+  {
+    "word": "the",
+    "start": 16.8906,
+    "end": 17.1869
+  },
+  {
+    "word": "jump",
+    "start": 17.1869,
+    "end": 17.4833
+  },
+  {
+    "word": "scares",
+    "start": 17.4833,
+    "end": 17.7796
+  },
+  {
+    "word": "or",
+    "start": 17.7796,
+    "end": 18.0759
+  },
+  {
+    "word": "the",
+    "start": 18.0759,
+    "end": 18.3722
+  },
+  {
+    "word": "gore",
+    "start": 18.3722,
+    "end": 18.6686
+  },
+  {
+    "word": "that",
+    "start": 18.6686,
+    "end": 18.9649
+  },
+  {
+    "word": "gets",
+    "start": 18.9649,
+    "end": 19.2612
+  },
+  {
+    "word": "under",
+    "start": 19.2612,
+    "end": 19.5576
+  },
+  {
+    "word": "your",
+    "start": 19.5576,
+    "end": 19.8539
+  },
+  {
+    "word": "skin",
+    "start": 19.8539,
+    "end": 20.1502
+  },
+  {
+    "word": ".",
+    "start": 20.1502,
+    "end": 20.4465
+  },
+  {
+    "word": "It",
+    "start": 20.4465,
+    "end": 20.7429
+  },
+  {
+    "word": "\u2019",
+    "start": 20.7429,
+    "end": 21.0392
+  },
+  {
+    "word": "s",
+    "start": 21.0392,
+    "end": 21.3355
+  },
+  {
+    "word": "the",
+    "start": 21.3355,
+    "end": 21.6318
+  },
+  {
+    "word": "way",
+    "start": 21.6318,
+    "end": 21.9282
+  },
+  {
+    "word": "a",
+    "start": 21.9282,
+    "end": 22.2245
+  },
+  {
+    "word": "good",
+    "start": 22.2245,
+    "end": 22.5208
+  },
+  {
+    "word": "film",
+    "start": 22.5208,
+    "end": 22.8171
+  },
+  {
+    "word": "taps",
+    "start": 22.8171,
+    "end": 23.1135
+  },
+  {
+    "word": "into",
+    "start": 23.1135,
+    "end": 23.4098
+  },
+  {
+    "word": "that",
+    "start": 23.4098,
+    "end": 23.7061
+  },
+  {
+    "word": "primal",
+    "start": 23.7061,
+    "end": 24.0024
+  },
+  {
+    "word": ",",
+    "start": 24.0024,
+    "end": 24.2988
+  },
+  {
+    "word": "lizard",
+    "start": 24.2988,
+    "end": 24.5951
+  },
+  {
+    "word": "-",
+    "start": 24.5951,
+    "end": 24.8914
+  },
+  {
+    "word": "brain",
+    "start": 24.8914,
+    "end": 25.1878
+  },
+  {
+    "word": "fear",
+    "start": 25.1878,
+    "end": 25.4841
+  },
+  {
+    "word": "we",
+    "start": 25.4841,
+    "end": 25.7804
+  },
+  {
+    "word": "\u2019",
+    "start": 25.7804,
+    "end": 26.0767
+  },
+  {
+    "word": "ve",
+    "start": 26.0767,
+    "end": 26.3731
+  },
+  {
+    "word": "been",
+    "start": 26.3731,
+    "end": 26.6694
+  },
+  {
+    "word": "carrying",
+    "start": 26.6694,
+    "end": 26.9657
+  },
+  {
+    "word": "around",
+    "start": 26.9657,
+    "end": 27.262
+  },
+  {
+    "word": "since",
+    "start": 27.262,
+    "end": 27.5584
+  },
+  {
+    "word": "we",
+    "start": 27.5584,
+    "end": 27.8547
+  },
+  {
+    "word": "lived",
+    "start": 27.8547,
+    "end": 28.151
+  },
+  {
+    "word": "in",
+    "start": 28.151,
+    "end": 28.4473
+  },
+  {
+    "word": "caves",
+    "start": 28.4473,
+    "end": 28.7437
+  },
+  {
+    "word": ".",
+    "start": 28.7437,
+    "end": 29.04
+  }
+]

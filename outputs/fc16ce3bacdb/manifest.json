@@ -1,0 +1,11 @@
+{
+  "run_id": "fc16ce3bacdb",
+  "idea": "test faceless video about ocean mystery",
+  "target_duration_minutes": 1,
+  "audio_provider": "gemini",
+  "plan_path": null,
+  "metadata_path": null,
+  "thumbnail_path": null,
+  "final_video_path": null,
+  "scenes": []
+}

@@ -1,0 +1,582 @@
+[
+  {
+    "word": "I",
+    "start": 0.0,
+    "end": 0.2866
+  },
+  {
+    "word": "\u2019",
+    "start": 0.2866,
+    "end": 0.5733
+  },
+  {
+    "word": "m",
+    "start": 0.5733,
+    "end": 0.8599
+  },
+  {
+    "word": "parked",
+    "start": 0.8599,
+    "end": 1.1466
+  },
+  {
+    "word": "near",
+    "start": 1.1466,
+    "end": 1.4332
+  },
+  {
+    "word": "the",
+    "start": 1.4332,
+    "end": 1.7198
+  },
+  {
+    "word": "north",
+    "start": 1.7198,
+    "end": 2.0065
+  },
+  {
+    "word": "ridge",
+    "start": 2.0065,
+    "end": 2.2931
+  },
+  {
+    "word": "trailhead",
+    "start": 2.2931,
+    "end": 2.5797
+  },
+  {
+    "word": ".",
+    "start": 2.5797,
+    "end": 2.8664
+  },
+  {
+    "word": "I",
+    "start": 2.8664,
+    "end": 3.153
+  },
+  {
+    "word": "got",
+    "start": 3.153,
+    "end": 3.4397
+  },
+  {
+    "word": "a",
+    "start": 3.4397,
+    "end": 3.7263
+  },
+  {
+    "word": "call",
+    "start": 3.7263,
+    "end": 4.0129
+  },
+  {
+    "word": "about",
+    "start": 4.0129,
+    "end": 4.2996
+  },
+  {
+    "word": "an",
+    "start": 4.2996,
+    "end": 4.5862
+  },
+  {
+    "word": "abandoned",
+    "start": 4.5862,
+    "end": 4.8728
+  },
+  {
+    "word": "campsite",
+    "start": 4.8728,
+    "end": 5.1595
+  },
+  {
+    "word": ",",
+    "start": 5.1595,
+    "end": 5.4461
+  },
+  {
+    "word": "some",
+    "start": 5.4461,
+    "end": 5.7328
+  },
+  {
+    "word": "gear",
+    "start": 5.7328,
+    "end": 6.0194
+  },
+  {
+    "word": "left",
+    "start": 6.0194,
+    "end": 6.306
+  },
+  {
+    "word": "out",
+    "start": 6.306,
+    "end": 6.5927
+  },
+  {
+    "word": "in",
+    "start": 6.5927,
+    "end": 6.8793
+  },
+  {
+    "word": "the",
+    "start": 6.8793,
+    "end": 7.1659
+  },
+  {
+    "word": "rain",
+    "start": 7.1659,
+    "end": 7.4526
+  },
+  {
+    "word": ",",
+    "start": 7.4526,
+    "end": 7.7392
+  },
+  {
+    "word": "but",
+    "start": 7.7392,
+    "end": 8.0259
+  },
+  {
+    "word": "when",
+    "start": 8.0259,
+    "end": 8.3125
+  },
+  {
+    "word": "I",
+    "start": 8.3125,
+    "end": 8.5991
+  },
+  {
+    "word": "pulled",
+    "start": 8.5991,
+    "end": 8.8858
+  },
+  {
+    "word": "up",
+    "start": 8.8858,
+    "end": 9.1724
+  },
+  {
+    "word": ",",
+    "start": 9.1724,
+    "end": 9.4591
+  },
+  {
+    "word": "there",
+    "start": 9.4591,
+    "end": 9.7457
+  },
+  {
+    "word": "wasn",
+    "start": 9.7457,
+    "end": 10.0323
+  },
+  {
+    "word": "\u2019",
+    "start": 10.0323,
+    "end": 10.319
+  },
+  {
+    "word": "t",
+    "start": 10.319,
+    "end": 10.6056
+  },
+  {
+    "word": "a",
+    "start": 10.6056,
+    "end": 10.8922
+  },
+  {
+    "word": "soul",
+    "start": 10.8922,
+    "end": 11.1789
+  },
+  {
+    "word": "around",
+    "start": 11.1789,
+    "end": 11.4655
+  },
+  {
+    "word": ".",
+    "start": 11.4655,
+    "end": 11.7522
+  },
+  {
+    "word": "No",
+    "start": 11.7522,
+    "end": 12.0388
+  },
+  {
+    "word": "tent",
+    "start": 12.0388,
+    "end": 12.3254
+  },
+  {
+    "word": ",",
+    "start": 12.3254,
+    "end": 12.6121
+  },
+  {
+    "word": "no",
+    "start": 12.6121,
+    "end": 12.8987
+  },
+  {
+    "word": "fire",
+    "start": 12.8987,
+    "end": 13.1853
+  },
+  {
+    "word": "pit",
+    "start": 13.1853,
+    "end": 13.472
+  },
+  {
+    "word": ",",
+    "start": 13.472,
+    "end": 13.7586
+  },
+  {
+    "word": "just",
+    "start": 13.7586,
+    "end": 14.0453
+  },
+  {
+    "word": "a",
+    "start": 14.0453,
+    "end": 14.3319
+  },
+  {
+    "word": "backpack",
+    "start": 14.3319,
+    "end": 14.6185
+  },
+  {
+    "word": "sitting",
+    "start": 14.6185,
+    "end": 14.9052
+  },
+  {
+    "word": "upright",
+    "start": 14.9052,
+    "end": 15.1918
+  },
+  {
+    "word": "in",
+    "start": 15.1918,
+    "end": 15.4784
+  },
+  {
+    "word": "the",
+    "start": 15.4784,
+    "end": 15.7651
+  },
+  {
+    "word": "middle",
+    "start": 15.7651,
+    "end": 16.0517
+  },
+  {
+    "word": "of",
+    "start": 16.0517,
+    "end": 16.3384
+  },
+  {
+    "word": "the",
+    "start": 16.3384,
+    "end": 16.625
+  },
+  {
+    "word": "clearing",
+    "start": 16.625,
+    "end": 16.9116
+  },
+  {
+    "word": ".",
+    "start": 16.9116,
+    "end": 17.1983
+  },
+  {
+    "word": "It",
+    "start": 17.1983,
+    "end": 17.4849
+  },
+  {
+    "word": "looked",
+    "start": 17.4849,
+    "end": 17.7716
+  },
+  {
+    "word": "staged",
+    "start": 17.7716,
+    "end": 18.0582
+  },
+  {
+    "word": ",",
+    "start": 18.0582,
+    "end": 18.3448
+  },
+  {
+    "word": "almost",
+    "start": 18.3448,
+    "end": 18.6315
+  },
+  {
+    "word": ".",
+    "start": 18.6315,
+    "end": 18.9181
+  },
+  {
+    "word": "Like",
+    "start": 18.9181,
+    "end": 19.2047
+  },
+  {
+    "word": "someone",
+    "start": 19.2047,
+    "end": 19.4914
+  },
+  {
+    "word": "had",
+    "start": 19.4914,
+    "end": 19.778
+  },
+  {
+    "word": "set",
+    "start": 19.778,
+    "end": 20.0647
+  },
+  {
+    "word": "it",
+    "start": 20.0647,
+    "end": 20.3513
+  },
+  {
+    "word": "down",
+    "start": 20.3513,
+    "end": 20.6379
+  },
+  {
+    "word": "to",
+    "start": 20.6379,
+    "end": 20.9246
+  },
+  {
+    "word": "take",
+    "start": 20.9246,
+    "end": 21.2112
+  },
+  {
+    "word": "a",
+    "start": 21.2112,
+    "end": 21.4978
+  },
+  {
+    "word": "photo",
+    "start": 21.4978,
+    "end": 21.7845
+  },
+  {
+    "word": "and",
+    "start": 21.7845,
+    "end": 22.0711
+  },
+  {
+    "word": "just",
+    "start": 22.0711,
+    "end": 22.3578
+  },
+  {
+    "word": "walked",
+    "start": 22.3578,
+    "end": 22.6444
+  },
+  {
+    "word": "into",
+    "start": 22.6444,
+    "end": 22.931
+  },
+  {
+    "word": "the",
+    "start": 22.931,
+    "end": 23.2177
+  },
+  {
+    "word": "trees",
+    "start": 23.2177,
+    "end": 23.5043
+  },
+  {
+    "word": "without",
+    "start": 23.5043,
+    "end": 23.7909
+  },
+  {
+    "word": "looking",
+    "start": 23.7909,
+    "end": 24.0776
+  },
+  {
+    "word": "back",
+    "start": 24.0776,
+    "end": 24.3642
+  },
+  {
+    "word": ".",
+    "start": 24.3642,
+    "end": 24.6509
+  },
+  {
+    "word": "I",
+    "start": 24.6509,
+    "end": 24.9375
+  },
+  {
+    "word": "stepped",
+    "start": 24.9375,
+    "end": 25.2241
+  },
+  {
+    "word": "out",
+    "start": 25.2241,
+    "end": 25.5108
+  },
+  {
+    "word": "of",
+    "start": 25.5108,
+    "end": 25.7974
+  },
+  {
+    "word": "the",
+    "start": 25.7974,
+    "end": 26.0841
+  },
+  {
+    "word": "truck",
+    "start": 26.0841,
+    "end": 26.3707
+  },
+  {
+    "word": ",",
+    "start": 26.3707,
+    "end": 26.6573
+  },
+  {
+    "word": "the",
+    "start": 26.6573,
+    "end": 26.944
+  },
+  {
+    "word": "gravel",
+    "start": 26.944,
+    "end": 27.2306
+  },
+  {
+    "word": "crunching",
+    "start": 27.2306,
+    "end": 27.5172
+  },
+  {
+    "word": "loud",
+    "start": 27.5172,
+    "end": 27.8039
+  },
+  {
+    "word": "enough",
+    "start": 27.8039,
+    "end": 28.0905
+  },
+  {
+    "word": "to",
+    "start": 28.0905,
+    "end": 28.3772
+  },
+  {
+    "word": "make",
+    "start": 28.3772,
+    "end": 28.6638
+  },
+  {
+    "word": "me",
+    "start": 28.6638,
+    "end": 28.9504
+  },
+  {
+    "word": "wince",
+    "start": 28.9504,
+    "end": 29.2371
+  },
+  {
+    "word": ".",
+    "start": 29.2371,
+    "end": 29.5237
+  },
+  {
+    "word": "The",
+    "start": 29.5237,
+    "end": 29.8103
+  },
+  {
+    "word": "air",
+    "start": 29.8103,
+    "end": 30.097
+  },
+  {
+    "word": "smelled",
+    "start": 30.097,
+    "end": 30.3836
+  },
+  {
+    "word": "wrong",
+    "start": 30.3836,
+    "end": 30.6703
+  },
+  {
+    "word": "\u2014",
+    "start": 30.6703,
+    "end": 30.9569
+  },
+  {
+    "word": "metallic",
+    "start": 30.9569,
+    "end": 31.2435
+  },
+  {
+    "word": ",",
+    "start": 31.2435,
+    "end": 31.5302
+  },
+  {
+    "word": "like",
+    "start": 31.5302,
+    "end": 31.8168
+  },
+  {
+    "word": "ozone",
+    "start": 31.8168,
+    "end": 32.1034
+  },
+  {
+    "word": "and",
+    "start": 32.1034,
+    "end": 32.3901
+  },
+  {
+    "word": "wet",
+    "start": 32.3901,
+    "end": 32.6767
+  },
+  {
+    "word": "copper",
+    "start": 32.6767,
+    "end": 32.9634
+  },
+  {
+    "word": ".",
+    "start": 32.9634,
+    "end": 33.25
+  }
+]

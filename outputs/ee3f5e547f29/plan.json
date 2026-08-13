@@ -1,0 +1,19 @@
+{
+  "scenes": [
+    {
+      "paragraph_index": 1,
+      "narration": "I never really bought into the local legends growing up. You know, the kind of stories that get whispered around a campfire just to keep the kids from wandering too far into the treeline. But that changed three years ago, on a stretch of dirt road about twenty miles outside of Gallup.",
+      "image_prompt": "A desolate, dusty dirt road in the high desert at twilight, surrounded by twisted juniper trees and deep shadows, cinematic lighting, photorealistic."
+    },
+    {
+      "paragraph_index": 2,
+      "narration": "It was just past midnight. My headlights caught something standing on the shoulder. At first, I thought it was a hitchhiker, maybe a coyote standing on its hind legs, but then it turned. It didn't move like a human, and it definitely didn't move like an animal. It was jerky, unnatural, like a film reel skipping frames.",
+      "image_prompt": "A POV shot from inside a car looking through a dirty windshield at a dark, tall, distorted humanoid silhouette standing on the side of a lonely desert road, eerie atmosphere, moody."
+    }
+  ],
+  "thumbnail_prompt": "A high-contrast, terrifying image of a gaunt, distorted creature standing in the middle of a dark desert road, headlights cutting through the night, bold text overlay saying 'IT WASN'T HUMAN', cinematic horror style.",
+  "title_and_description": {
+    "title": "I Saw Something In The Desert: A Skinwalker Encounter",
+    "description": "A personal, chilling account of a late-night encounter in the desert that defies explanation. Is it local folklore, or something real hiding in the shadows? Listen to this unsettling true story."
+  }
+}

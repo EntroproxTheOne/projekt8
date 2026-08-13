@@ -1,0 +1,11 @@
+{
+  "run_id": "0a96209895a4",
+  "idea": "horror movie",
+  "target_duration_minutes": 5,
+  "audio_provider": "gemini",
+  "plan_path": null,
+  "metadata_path": null,
+  "thumbnail_path": null,
+  "final_video_path": null,
+  "scenes": []
+}

@@ -1,0 +1,3 @@
+A short history of AI: Mock Video
+
+Generated in mock mode for local pipeline testing.

@@ -1,0 +1,60 @@
+{
+  "run_id": "240f68854cb3",
+  "idea": "horror movie",
+  "target_duration_minutes": 5,
+  "audio_provider": "gemini",
+  "plan_path": "plan.json",
+  "metadata_path": "metadata.txt",
+  "thumbnail_path": null,
+  "final_video_path": null,
+  "scenes": [
+    {
+      "paragraph_index": 1,
+      "audio_path": null,
+      "timestamps_path": null,
+      "image_path": null,
+      "timestamp_source": "estimated",
+      "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+    },
+    {
+      "paragraph_index": 2,
+      "audio_path": null,
+      "timestamps_path": null,
+      "image_path": null,
+      "timestamp_source": null,
+      "error": null
+    },
+    {
+      "paragraph_index": 3,
+      "audio_path": null,
+      "timestamps_path": null,
+      "image_path": null,
+      "timestamp_source": null,
+      "error": null
+    },
+    {
+      "paragraph_index": 4,
+      "audio_path": null,
+      "timestamps_path": null,
+      "image_path": null,
+      "timestamp_source": null,
+      "error": null
+    },
+    {
+      "paragraph_index": 5,
+      "audio_path": null,
+      "timestamps_path": null,
+      "image_path": null,
+      "timestamp_source": null,
+      "error": null
+    },
+    {
+      "paragraph_index": 6,
+      "audio_path": null,
+      "timestamps_path": null,
+      "image_path": null,
+      "timestamp_source": null,
+      "error": null
+    }
+  ]
+}

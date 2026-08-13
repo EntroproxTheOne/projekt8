@@ -1,0 +1,28 @@
+{
+  "run_id": "4e7c510611d9",
+  "idea": "siren head story in a forest park from a pov of a ranger",
+  "target_duration_minutes": 10,
+  "audio_provider": "deepgram",
+  "plan_path": "plan.json",
+  "metadata_path": "metadata.txt",
+  "thumbnail_path": null,
+  "final_video_path": null,
+  "scenes": [
+    {
+      "paragraph_index": 1,
+      "audio_path": null,
+      "timestamps_path": null,
+      "image_path": null,
+      "timestamp_source": null,
+      "error": null
+    },
+    {
+      "paragraph_index": 2,
+      "audio_path": null,
+      "timestamps_path": null,
+      "image_path": null,
+      "timestamp_source": null,
+      "error": null
+    }
+  ]
+}

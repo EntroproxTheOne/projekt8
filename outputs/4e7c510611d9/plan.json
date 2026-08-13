@@ -1,0 +1,19 @@
+{
+  "scenes": [
+    {
+      "paragraph_index": 1,
+      "narration": "They don’t tell you about the silence in the training manual. They talk about bear safety, trail maintenance, and how to handle a lost hiker, but they never mention the kind of quiet that feels like it’s holding its breath. I’ve been a ranger at Blackwood Ridge for six years now, and I’ve learned that the forest has a rhythm. Usually, it’s a hum of insects, the rustle of wind in the hemlocks, or the occasional crack of a dry branch. But tonight? Tonight, the woods were dead. Not just quiet, but aggressively still. Like the entire ecosystem had just walked out of the room.",
+      "image_prompt": "Cinematic first-person perspective from a forest ranger wearing a green uniform, looking out into a dense, dark, misty pine forest at dusk, high detail, moody atmosphere, realistic photography style."
+    },
+    {
+      "paragraph_index": 2,
+      "narration": "I was about three miles out from the northern trailhead, checking on a reported downed power line. My flashlight beam felt pathetic, a thin, yellow ribbon cutting into a darkness that seemed thicker than usual. I stepped over a rotted log, my boots crunching on damp needles, and that’s when I heard it. It wasn't a bird. It wasn't a coyote. It was a sound that didn't belong in nature. It was like a radio tuning between stations—static, muffled voices, and a high-pitched, oscillating frequency that made the fillings in my teeth ache.",
+      "image_prompt": "First-person POV, flashlight beam cutting through thick dark forest fog, illumination hitting a cluster of mossy trees, slight motion blur, eerie cinematic lighting."
+    }
+  ],
+  "thumbnail_prompt": "A terrifying, hyper-realistic, tall, skeletal creature with rusted sirens for a head looming over a forest ranger's flashlight in a dark, misty forest, cinematic horror style, bold and dark color palette.",
+  "title_and_description": {
+    "title": "I'm a Park Ranger, and I Found Something in the Woods That Shouldn't Exist",
+    "description": "A harrowing, true-sounding account of a park ranger’s encounter with the creature known as Siren Head. Based on a chilling firsthand narrative from the deep woods of Blackwood Ridge."
+  }
+}

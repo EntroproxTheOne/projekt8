@@ -1,0 +1,19 @@
+{
+  "scenes": [
+    {
+      "paragraph_index": 1,
+      "narration": "This is mock paragraph 1 for A short history of AI. It demonstrates resumable audio chunks, contextual images, and dynamic subtitles.",
+      "image_prompt": "A cinematic vertical scene about A short history of AI, paragraph 1"
+    },
+    {
+      "paragraph_index": 2,
+      "narration": "This is mock paragraph 2 for A short history of AI. It demonstrates resumable audio chunks, contextual images, and dynamic subtitles.",
+      "image_prompt": "A cinematic vertical scene about A short history of AI, paragraph 2"
+    }
+  ],
+  "thumbnail_prompt": "A bold thumbnail about A short history of AI",
+  "title_and_description": {
+    "title": "A short history of AI: Mock Video",
+    "description": "Generated in mock mode for local pipeline testing."
+  }
+}

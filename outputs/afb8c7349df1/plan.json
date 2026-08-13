@@ -1,0 +1,19 @@
+{
+  "scenes": [
+    {
+      "paragraph_index": 1,
+      "narration": "They don’t tell you about the silence in the training manual. They talk about bear safety, trail maintenance, and how to spot a downed power line, but they never mention the kind of silence that feels heavy—like the air is holding its breath. I’ve been a ranger in this sector for eight years, and usually, the woods have a rhythm. You get the crickets, the rustle of dry leaves, the distant snap of a twig under a deer’s hoof. But tonight, that rhythm is gone. It’s just me, the static on my radio, and a darkness so thick it feels like it’s pressing against the glass of my truck.",
+      "image_prompt": "First-person perspective from inside a ranger truck at night, looking out through the windshield at a dense, dark forest road, dashboard lights glowing faintly, eerie atmosphere, hyper-realistic, cinematic lighting."
+    },
+    {
+      "paragraph_index": 2,
+      "narration": "I’m parked near the north ridge trailhead. I got a call about an abandoned campsite, some gear left out in the rain, but when I pulled up, there wasn’t a soul around. No tent, no fire pit, just a backpack sitting upright in the middle of the clearing. It looked staged, almost. Like someone had set it down to take a photo and just walked into the trees without looking back. I stepped out of the truck, the gravel crunching loud enough to make me wince. The air smelled wrong—metallic, like ozone and wet copper.",
+      "image_prompt": "A lone backpack sitting in the middle of a dark, misty forest clearing at night, flashlight beam cutting through the fog, suspenseful, moody, detailed texture."
+    }
+  ],
+  "thumbnail_prompt": "A terrifying, tall, skeletal creature with rusted siren speakers for a head looming over a parked ranger truck in a misty, dark forest at night, high contrast, cinematic horror lighting, 8k resolution.",
+  "title_and_description": {
+    "title": "I Spent the Night Hunting a Monster in the North Ridge Woods",
+    "description": "As a park ranger, I thought I knew every inch of these woods. But when I encountered something that shouldn't exist—a towering, silent nightmare that mimicked human voices—I realized some things are better left undiscovered. This is my story."
+  }
+}
