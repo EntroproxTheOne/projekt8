@@ -1,0 +1,8 @@
+.python_deps/
+__pycache__/
+.pytest_cache/
+*.pyc
+outputs/
+.env
+.env.*
+!.env.example
