@@ -3,6 +3,7 @@ __pycache__/
 .pytest_cache/
 *.pyc
 outputs/
+/offline-branch-archive/
 .env
 .env.*
 !.env.example
